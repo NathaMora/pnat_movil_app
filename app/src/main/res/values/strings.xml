@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">pnat_mobile</string>
+    <string name="app_name">PNAT Mobile</string>
+    <string name="project_identity">PNAT</string>
+    <string name="project_name">RaySharkApp / PNAT</string>
+    <string name="project_introduction">Help document shark and ray sightings through community participation.</string>
+    <string name="action_submit_sighting">Submit sighting</string>
+    <string name="action_my_reports">My Reports</string>
+    <string name="brand_logo_content_description">Fundación Squalus logo</string>
+    <string name="brand_program_name">National Program for\nShark and Ray\nSightings\nPNAT</string>
+    <string name="brand_product_name">RaySharkApp</string>
+    <string name="brand_mobile_version">Mobile Version</string>
 </resources>

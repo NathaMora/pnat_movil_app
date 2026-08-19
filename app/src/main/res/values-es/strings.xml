@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PNAT Móvil</string>
+    <string name="project_identity">PNAT</string>
+    <string name="project_name">RaySharkApp / PNAT</string>
+    <string name="project_introduction">Ayuda a documentar avistamientos de tiburones y rayas mediante la participación de la comunidad.</string>
+    <string name="action_submit_sighting">Enviar avistamiento</string>
+    <string name="action_my_reports">Mis reportes</string>
+    <string name="brand_logo_content_description">Logo de Fundación Squalus</string>
+    <string name="brand_program_name">Programa Nacional de\nAvistamiento de\nTiburones y Rayas\nPNAT</string>
+    <string name="brand_product_name">RaySharkApp</string>
+    <string name="brand_mobile_version">Versión móvil</string>
+</resources>

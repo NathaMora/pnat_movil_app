@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Pnat_mobile.Starting" parent="Theme.Pnat_mobile">
+        <item name="android:windowSplashScreenBackground">@color/pnat_blue</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@android:color/transparent</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/pnat_blue</item>
+        <item name="android:windowSplashScreenAnimationDuration">0</item>
+        <item name="android:windowBackground">@color/pnat_blue</item>
+    </style>
+</resources>
